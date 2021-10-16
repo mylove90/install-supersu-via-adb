@@ -21,3 +21,17 @@ To Root your TV
 To UnRoot your TV
 1. chmod 777 unroot.sh
 2. ./unroot.sh
+
+# ROM For Unionaire M-LD-40UN-SM628-EXD
+
+- [**Stock Rom**](https://engasuedu-my.sharepoint.com/:u:/g/personal/mohamed_ibrahim16_eng_asu_edu_eg/Ed6BWYHWNcpIkBtlA41SYMEBE3Va_nTTAw5NtoQPeZvT7w?e=1YxDfs)
+- [**Moded Rom**](https://engasuedu-my.sharepoint.com/:u:/g/personal/mohamed_ibrahim16_eng_asu_edu_eg/ERH131Ta7rlGucRk4OLy5YIB6_4nPhgk9ob4MiY7QUy1zA?e=MzuZTY)
+
+Moded Rom changes
+* Rooted
+* Debloated
+* DeGoogled
+* Zram 256MB
+* Zram Swappiness 100%
+* Overclock Ready
+* Writable USB drives
